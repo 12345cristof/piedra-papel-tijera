@@ -32,12 +32,15 @@ Al iniciar el programa aparece el siguiente menú:
 
 1. Jugar                                          
    
-3. Ver reglas                                          ![image](https://github.com/user-attachments/assets/ff81950a-91f9-4f79-af98-2269cf8bd339)
-
-   
+3. Ver reglas
+                                          
 5. Ver estadísticas de la última partida
    
 7. Salir
+
+    ![image](https://github.com/user-attachments/assets/ff81950a-91f9-4f79-af98-2269cf8bd339)
+
+   
    
 Opción 1: Jugar
 
@@ -50,6 +53,8 @@ Permite elegir entre:
 3. Volver: regresa al menú principal.
 
 El usuario indica cuántas partidas desea jugar.
+
+
 
 Opción 2: Ver reglas
 
