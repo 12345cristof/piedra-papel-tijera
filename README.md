@@ -54,6 +54,7 @@ Permite elegir entre:
 
 El usuario indica cuántas partidas desea jugar.
 
+![image](https://github.com/user-attachments/assets/4236cc4f-7257-4e0e-9d1e-fe04087cac60)
 
 
 Opción 2: Ver reglas
