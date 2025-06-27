@@ -1,5 +1,10 @@
 Juego Piedra, Papel o Tijera en Python
+
+
+
 ![image](https://github.com/user-attachments/assets/bb7e3392-671d-48c8-94a1-3e4ca0a8bf42)
+
+
 
 
  Autor
