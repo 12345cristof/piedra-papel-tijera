@@ -30,9 +30,10 @@ Menú principal
 
 Al iniciar el programa aparece el siguiente menú:
 
-1. Jugar
+1. Jugar                                          
    
-3. Ver reglas
+3. Ver reglas                                          ![image](https://github.com/user-attachments/assets/ff81950a-91f9-4f79-af98-2269cf8bd339)
+
    
 5. Ver estadísticas de la última partida
    
