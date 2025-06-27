@@ -1,4 +1,6 @@
 Juego Piedra, Papel o Tijera en Python
+![image](https://github.com/user-attachments/assets/bb7e3392-671d-48c8-94a1-3e4ca0a8bf42)
+
 
  Autor
  
@@ -43,18 +45,19 @@ Al iniciar el programa aparece el siguiente menú:
    
    
 Opción 1: Jugar
+![image](https://github.com/user-attachments/assets/4236cc4f-7257-4e0e-9d1e-fe04087cac60)
 
 Permite elegir entre:
 
 1. Contra PC: el usuario juega contra la computadora.
+   ![image](https://github.com/user-attachments/assets/260ec148-0f3e-40f8-b323-06e38689c977)
 
-2. Dos jugadores: dos personas juegan entre sí.
 
-3. Volver: regresa al menú principal.
+3. Dos jugadores: dos personas juegan entre sí. Se oculta la eleccion del jugador.  
+   ![image](https://github.com/user-attachments/assets/8f9e043d-4525-4e35-9aea-73723853635e)
 
-El usuario indica cuántas partidas desea jugar.
 
-![image](https://github.com/user-attachments/assets/4236cc4f-7257-4e0e-9d1e-fe04087cac60)
+5. Volver: regresa al menú principal.
 
 
 Opción 2: Ver reglas
@@ -68,7 +71,10 @@ Tijera gana a Papel
 
 Papel gana a Piedra
 
-Opción 3: Ver estadísticas
+![image](https://github.com/user-attachments/assets/50bc3526-9303-458a-9d22-8da55ffee621)
+
+
+Opción 3: Ver estadísticas de la ultima partida jugada
 
 Muestra las estadísticas de la última partida:
 
@@ -79,6 +85,8 @@ Número de partidas jugadas
 Veces que ganó cada jugador
 
 Número de empates
+
+![image](https://github.com/user-attachments/assets/d650209a-72ab-4a3f-820c-313df407c172)
 
 Opción 4: Salir
 
