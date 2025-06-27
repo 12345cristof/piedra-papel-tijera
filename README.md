@@ -33,7 +33,7 @@ Aplicar los conocimientos adquiridos en la asignatura de Lógica de Programació
 
 🎮 🎮 🎮 🎮 🎮 ¿Cómo se juega? 🎮 🎮 🎮 🎮 🎮 
 
-Menú principal
+⭐⭐⭐⭐Menú principal⭐⭐⭐⭐
 
 Al iniciar el programa aparece el siguiente menú:
 
@@ -51,7 +51,7 @@ Al iniciar el programa aparece el siguiente menú:
 
    
    
-Opción 1: Jugar
+⭐Opción 1: Jugar
 
 
 ![image](https://github.com/user-attachments/assets/4236cc4f-7257-4e0e-9d1e-fe04087cac60)
@@ -75,7 +75,7 @@ Permite elegir entre:
 5. Volver: regresa al menú principal.
 
 
-Opción 2: Ver reglas
+⭐Opción 2: Ver reglas
 
 Explica las reglas básicas:
 
@@ -91,7 +91,7 @@ Papel gana a Piedra
 
 
 
-Opción 3: Ver estadísticas de la ultima partida jugada
+⭐Opción 3: Ver estadísticas de la ultima partida jugada
 
 Muestra las estadísticas de la última partida:
 
