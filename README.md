@@ -15,7 +15,9 @@ Objetivo
 Aplicar los conocimientos adquiridos en la asignatura de Lógica de Programación usando estructuras como condicionales, ciclos, funciones y diccionarios para construir un juego funcional y claro.
 
 🎮 🎮 🎮 🎮 🎮 ¿Cómo se juega? 🎮 🎮 🎮 🎮 🎮 
+
 Menú principal
+
 Al iniciar el programa aparece el siguiente menú:
 
 1. Jugar
@@ -60,6 +62,5 @@ Opción 4: Salir
 
 
  
-![image](https://github.com/user-attachments/assets/6ef6cf3f-4a2c-40b0-a472-025d3ff48503)
 
 
