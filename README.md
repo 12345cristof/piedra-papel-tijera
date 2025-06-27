@@ -45,20 +45,30 @@ Al iniciar el programa aparece el siguiente menú:
    
 7. Salir
 
+   
+
     ![image](https://github.com/user-attachments/assets/ff81950a-91f9-4f79-af98-2269cf8bd339)
 
    
    
 Opción 1: Jugar
+
+
 ![image](https://github.com/user-attachments/assets/4236cc4f-7257-4e0e-9d1e-fe04087cac60)
+
+
 
 Permite elegir entre:
 
 1. Contra PC: el usuario juega contra la computadora.
+
+   
    ![image](https://github.com/user-attachments/assets/260ec148-0f3e-40f8-b323-06e38689c977)
 
 
-3. Dos jugadores: dos personas juegan entre sí. Se oculta la eleccion del jugador.  
+3. Dos jugadores: dos personas juegan entre sí. Se oculta la eleccion del jugador.
+
+   
    ![image](https://github.com/user-attachments/assets/8f9e043d-4525-4e35-9aea-73723853635e)
 
 
@@ -76,7 +86,9 @@ Tijera gana a Papel
 
 Papel gana a Piedra
 
+
 ![image](https://github.com/user-attachments/assets/50bc3526-9303-458a-9d22-8da55ffee621)
+
 
 
 Opción 3: Ver estadísticas de la ultima partida jugada
