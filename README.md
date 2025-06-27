@@ -1,4 +1,8 @@
-Piedra, Papel o Tijera en Python
+Juego Piedra, Papel o Tijera en Python
+ Autor
+Cristofer Tupiza
+Asignatura: Lógica de Programación  
+Docente: Vanessa Heredia
 
 Este proyecto es un juego interactivo desarrollado en Python que permite:
 - Jugar contra la computadora
@@ -6,12 +10,56 @@ Este proyecto es un juego interactivo desarrollado en Python que permite:
 - Ver las reglas 
 - Consultar estadísticas de la última partida
 
- Autor
-Cristofer Tupiza
 
 Objetivo
 Aplicar los conocimientos adquiridos en la asignatura de Lógica de Programación usando estructuras como condicionales, ciclos, funciones y diccionarios para construir un juego funcional y claro.
 
-juego_piedra_papel.py 
+🎮 🎮 🎮 🎮 🎮 ¿Cómo se juega? 🎮 🎮 🎮 🎮 🎮 
+Menú principal
+Al iniciar el programa aparece el siguiente menú:
+
+1. Jugar
+2. Ver reglas
+3. Ver estadísticas de la última partida
+4. Salir
+   
+Opción 1: Jugar
+Permite elegir entre:
+
+1. Contra PC: el usuario juega contra la computadora.
+
+2. Dos jugadores: dos personas juegan entre sí.
+
+3. Volver: regresa al menú principal.
+
+El usuario indica cuántas partidas desea jugar.
+
+Opción 2: Ver reglas
+Explica las reglas básicas:
+
+Piedra gana a Tijera
+
+Tijera gana a Papel
+
+Papel gana a Piedra
+
+Opción 3: Ver estadísticas
+Muestra las estadísticas de la última partida:
+
+Nombres de los jugadores
+
+Número de partidas jugadas
+
+Veces que ganó cada jugador
+
+Número de empates
+
+Opción 4: Salir
+
+####   SE CiERRA EL PROGRAMA ####
+
+
+ 
+![image](https://github.com/user-attachments/assets/6ef6cf3f-4a2c-40b0-a472-025d3ff48503)
 
 
